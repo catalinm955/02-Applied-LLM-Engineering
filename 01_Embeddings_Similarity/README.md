@@ -4,6 +4,7 @@
   - Mixed technical / semi-technical text
   - Enough semantic overlap to test similarity
   - Stored as a .txt or .json
+    
 This mirrors real RAG ingestion later.
 
 ## Step 2 — Token → Sentence embeddings (important!)
